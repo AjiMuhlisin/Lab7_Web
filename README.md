@@ -2,9 +2,9 @@
 
 ---
 
-Nama : Aji Muhlisin
-NIM : 312010233
-Kelas : TI.20.B.1
+- Nama : Aji Muhlisin
+- NIM : 312010233
+- Kelas : TI.20.B.1
 
 ---
 
